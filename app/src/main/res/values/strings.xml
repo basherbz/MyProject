@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LibyanaKit</string>
+    <string name="welcome_messege">Welcome To Libyana Toolkit </string>
+    <string name="charge">تعبئة الرصيد </string>
+    <string name="inquery">الإطلاع على الرصيد </string>
+    <string name="join_net">الإشتراك في الإنترنت </string>
+    <string name="inquery_net">الإطلاع على حصة الإنترنت </string>
+    <string name="view">عرض عمليات التعبئة </string>
+    <string name="charge_txt">تعبئة</string>
+    <string name="please_enter_card">الرجاء إدخال رقم البطاقة: </string>
+    <string name="cardnum">CardNum</string>
+    <string name="charge_button">تعبئة</string>
+    <string name="transfare_btn">تحويل رصيد</string>
+    <string name="half_monthly">الباقات النصف شهرية:</string>
+    <string name="monthly">الباقات الشهرية:</string>
+    <string name="weekly">الباقات الأسبوعية:</string>
+    <string name="_50_1">50 ميغا بايت , 1 دينار</string>
+    <string name="_200_3">200 ميغا بايت. 3 دينار</string>
+    <string name="_400_4">400 ميغا بايت, 4 دينار</string>
+    <string name="_1000_12">1000 ميغا بايت, 12 دينار</string>
+    <string name="_2000_12">2000 ميغا بايت, 12 دينار</string>
+    <string name="_3000_16">3000 ميغا بايت, 16 دينار</string>
+    <string name="_15_25">15 غيغا بايت, 25 دينار</string>
+    <string name="_21_35">21 غيغا بايت. 35 دينار</string>
+    <string name="_30_50">30 غيغا بايت, 50 دينار</string>
+
+
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/weekly"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/weekly_50"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="weekly50"
+        android:text="@string/_50_1" />
+
+    <Button
+        android:id="@+id/weekly_200"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="weekly200"
+        android:text="@string/_200_3" />
+
+    <Button
+        android:id="@+id/weekly400"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="weekly400"
+        android:text="@string/_400_4" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/half_monthly"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/half_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/_1000_12" />
+
+    <Button
+        android:id="@+id/half_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/_2000_12" />
+
+    <Button
+        android:id="@+id/half_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/_3000_16" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/monthly"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/monthly_15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/_15_25" />
+
+    <Button
+        android:id="@+id/monthly_21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="monthly21"
+        android:text="@string/_21_35" />
+
+    <Button
+        android:id="@+id/monthly_50"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/_30_50" />
+
+</LinearLayout>
